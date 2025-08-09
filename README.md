@@ -21,31 +21,8 @@ A collection of my Machine Learning projects, ranging from beginner-friendly exp
 
 <h3>Beginner Level</h3>
 <ul>
-    <li>Iris Flower Classification 🌸</li>
-    <li>House Price Prediction 🏠</li>
-    <li>Customer Churn Prediction 📉</li>
-    <li>Movie Recommendation System 🎬</li>
-    <li>Handwritten Digit Recognition ✍️</li>
-</ul>
-
-<h3>Intermediate Level</h3>
-<ul>
-    <li>Sentiment Analysis on Reviews 💬</li>
-    <li>Stock Price Prediction 📈</li>
-    <li>Credit Card Fraud Detection 💳</li>
-    <li>Face Mask Detection 😷</li>
-    <li>Fake News Detection 📰</li>
-</ul>
-
-<h3>Advanced Level</h3>
-<ul>
-    <li>Image Segmentation for Medical Images 🧠</li>
-    <li>Self-Driving Car Simulation 🚗</li>
-    <li>Speech-to-Text Transcription 🎤</li>
-    <li>Real-Time Sign Language Recognition 🤟</li>
-    <li>College Campus Shortest Path Finder 🗺️</li>
-</ul>
-
+    <li> Acheivinig 95%+ accuracy on Sentiment analysis on Amazon sale data using logitic regression and Naive Bayes
+ </li>
 <hr>
 
 <h2>🚀 How to Run</h2>
