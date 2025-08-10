@@ -1,6 +1,6 @@
-# 📊 Sentiment Analysis on Product Reviews
+#  Sentiment Analysis on Product Reviews
 
-## 📌 Overview
+##  Overview
 This project uses **Machine Learning** to classify product reviews as **Positive (1)** or **Negative (0)**.  
 We use text preprocessing, feature extraction with **TF-IDF**, and multiple classification algorithms including:
 - Logistic Regression
@@ -11,7 +11,7 @@ We train our model on historical data and then predict the sentiment of new, uns
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source**: Amazon Product Reviews (CSV file)
 - **Features**:
   - `Review`: The text of the product review
@@ -59,11 +59,7 @@ We train our model on historical data and then predict the sentiment of new, uns
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
-   cd sentiment-analysis
+
 
 
 
